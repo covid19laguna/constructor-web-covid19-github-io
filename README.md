@@ -1,2 +1,3 @@
-# constructor-web-covid19-github-io
-Constructor del sitio web COVID-19 Laguna para usarse con Pelican.
+# Constructor web de covid19.github.io
+
+Archivos y directorios que por medio de [Pelican](https://blog.getpelican.com/) construyen el sitio web del COVID-19 Laguna para usarse con Pelican.
